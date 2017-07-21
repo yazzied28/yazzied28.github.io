@@ -1,3 +1,10 @@
-.image-1{
+img.image-1 {
   background-size: cover;
+  max-width: 100%;
+  height: auto;
+}
+
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
